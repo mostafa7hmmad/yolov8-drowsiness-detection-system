@@ -1,0 +1,6 @@
+opencv-python==4.9.0.80
+pygame==2.6.1
+ultralytics==8.1.27
+matplotlib==3.8.4
+numpy==1.26.4
+requests
