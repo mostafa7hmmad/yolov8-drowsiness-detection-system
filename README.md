@@ -1,6 +1,6 @@
 # yolov8-drowsiness-detection-system
 # Drowsiness Detection System Using YOLOv8
-![im](img.jpg)
+![im](1.jpg)
 This project presents an automated *Drowsiness Detection System* built using *YOLOv8*, a cutting-edge real-time object detection model. The goal of this system is to monitor drivers in real-time and detect early signs of drowsiness by analyzing facial features, particularly the eyes and head posture.
 
 ## 🔑 Key Features
